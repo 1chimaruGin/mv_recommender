@@ -1,2 +1,6 @@
 # mv_recommender
-Good
+
+
+`cd mvrecommender`
+
+`python manage.py runserver`
